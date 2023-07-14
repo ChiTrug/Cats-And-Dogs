@@ -1,4 +1,5 @@
 # Cats-And-Dogs 
+# Tóm tắt phần code, 
 
 ### Bước 1: Nhập các thư viện cần thiết
 ![image](https://github.com/ChiTrug/Cats-And-Dogs-Classification/assets/125122891/63a7bbda-e066-4aa9-88e1-8ae0f18f2da8)
@@ -15,5 +16,7 @@ Bộ dữ liệu gồm 2 file Cat và Dog
 - Với độ chính xác là 0.9830 thì model chạy khá chính xác. Loss cao và accuracy thấp trên tập kiểm tra (0.7730 và 0.8227) cho thấy mô hình có xu hướng không hoạt động tốt trên dữ liệu mới, khả năng bị overfitting.
 
 ### Bước 5: Vẽ biểu đồ độ lỗi tập test và train
+![image](https://github.com/ChiTrug/Cats-And-Dogs-Classification/assets/125122891/925dae6b-2fed-405a-88a0-38a9e16e4477)
+
 ### Bước 6: Kiểm tra
 Trong phần này để tránh gặp lỗi thì nên xài phiên bản tensorflow 2.12.0 mới nhất hiện tại nếu cũ hơn 2. trở về trước thì sẽ gặp lỗi. Phần này chỉ chạy code và đứa hình vào để xem model dự đoán.
