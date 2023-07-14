@@ -1,5 +1,4 @@
-# Cats-And-Dogs 
-# Tóm tắt phần code, 
+# Cats-And-Dogs (Tóm tắt phần code)
 
 ### Bước 1: Nhập các thư viện cần thiết
 ![image](https://github.com/ChiTrug/Cats-And-Dogs-Classification/assets/125122891/63a7bbda-e066-4aa9-88e1-8ae0f18f2da8)
